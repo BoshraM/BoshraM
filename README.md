@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 - I am a Junior Full Stack Software Developer <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmV3azg3dWs1cHF3Z3o5Y2xzNXo4NThya2libWNsNG9wdGZrMmttaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26AHONQ79FdWZhAI0/giphy.gif" width="50">.
 
 - :school: Full-stack graduate at CodeYourFuture <img src="https://codeyourfuture.io/wp-content/uploads/2019/03/cyf_brand.png" width="100"/>
-- :female-student: I have got my Bachelor in Urban Development Engineering.
-- :zap: I like coding, Puzzels, Books and Movies.
+- 👩‍🎓 I have got my Bachelor in Urban Development Engineering.
+- ⚡ I like coding, Puzzels, Books and Movies.
 - 🔭 I am currently working on a team project based on GBT API.
-- :computer: At present, I am looking for a Software Developer role.
+- 💻 At present, I am looking for a Software Developer role.
 
 <h3 align="center"> 🛠️ Tech Stack, Languages, Libraries, Frameworks and Tools</h3>
 
