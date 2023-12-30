@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 - :school: Full-stack graduate at CodeYourFuture <img src="https://codeyourfuture.io/wp-content/uploads/2019/03/cyf_brand.png" width="100"/>
 - 👩‍🎓 I have got my Bachelor in Urban Development Engineering.
-- ⚡ I like coding, Puzzels, Books and Movies.
-- 🔭 I am currently working on a team project based on GBT API.
+- ⚡ I like coding, puzzles, Books and Movies.
+- 🔭 I am currently working on a team project based on GPT API.
 - 💻 At present, I am looking for a Software Developer role.
 
 <h3 align="center"> 🛠️ Tech Stack, Languages, Libraries, Frameworks and Tools</h3>
